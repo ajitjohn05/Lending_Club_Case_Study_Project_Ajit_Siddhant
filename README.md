@@ -1,8 +1,8 @@
 Goals of data analysis:-
 
-	Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the
-	borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the
-	customers labelled as 'charged-off' are the 'defaulters'.
+	Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost
+	by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the
+	lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 	The main objective is to be able to identify these risky loan applicants,then such loans can be reduced thereby cutting down the amount of credit loss.
 	Identification of such applicants using EDA is the aim of this case study.
 	
@@ -13,7 +13,6 @@ Goals of data analysis:-
 
 Steps:-
 
-
 	Step 1 - Data Cleaning
 	Step 2 - Univariate Analysis
 	Step 3 - Segemented Univariate Analysis
@@ -23,7 +22,6 @@ Steps:-
 
 
 Contributors:-
-
 
 	Ajit John
 	Siddhant Srivastava
