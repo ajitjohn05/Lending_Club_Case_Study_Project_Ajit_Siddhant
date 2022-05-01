@@ -22,9 +22,7 @@ Steps:-
 
 
 Contributors:-
-
-	Ajit John
-	Siddhant Srivastava
-
+1.		Ajit John
+2.		Siddhant Srivastava
 
 Developed as part of the Exploratory Data Analysis Module required for Executive PG programme in Machine Learning And AI.
