@@ -1,4 +1,4 @@
-Goals of data analysis:-
+###Goals of data analysis:-
 ------------------------------
 Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
@@ -12,7 +12,7 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ------------------------------
 
-Steps:-
+#Steps:-
 ------------------------------
 
 *1 - Data Cleaning
@@ -23,12 +23,12 @@ Steps:-
 
 ------------------------------
 
-Contributors:-
+#Contributors:-
 ------------------------------
 
-*Ajit John
+Ajit John
 *Siddhant Srivastava
 
 ------------------------------
 
-*Developed as part of the Exploratory Data Analysis Module required for Executive PG programme in Machine Learning And AI.
+>Developed as part of the Exploratory Data Analysis Module required for Executive PG programme in Machine Learning And AI.
