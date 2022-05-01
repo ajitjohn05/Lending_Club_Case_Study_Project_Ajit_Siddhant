@@ -15,20 +15,20 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 Steps:-
 ------------------------------
 
-1 - Data Cleaning
-2 - Univariate Analysis
-3 - Segemented Univariate Analysis
-4 - Bivaraiate/Multivariate Analysis
-5 - Results
+*1 - Data Cleaning
+*2 - Univariate Analysis
+*3 - Segemented Univariate Analysis
+*4 - Bivaraiate/Multivariate Analysis
+*5 - Results
 
 ------------------------------
 
 Contributors:-
 ------------------------------
 
-Ajit John
-Siddhant Srivastava
+*Ajit John
+*Siddhant Srivastava
 
 ------------------------------
 
-Developed as part of the Exploratory Data Analysis Module required for Executive PG programme in Machine Learning And AI.
+*Developed as part of the Exploratory Data Analysis Module required for Executive PG programme in Machine Learning And AI.
